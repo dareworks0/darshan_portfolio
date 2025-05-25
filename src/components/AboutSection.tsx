@@ -54,7 +54,7 @@ const AboutSection = () => {
                   <div className="absolute -left-2 top-0 w-4 h-4 bg-primary rounded-full"></div>
                   <div>
                     <h4 className="text-lg font-semibold text-foreground">BE in Computer Science</h4>
-                    <p className="text-sm text-primary font-medium">Undergrad • Expected May 2026</p>
+                    <p className="text-sm text-primary font-medium">Vivekanand Education SOciety's Institute of Technology • 2022 - 2026</p>
                     <p className="text-sm text-muted-foreground mt-1">
                       Currently pursuing bachelor's degree in Computer Science
                     </p>
@@ -66,7 +66,7 @@ const AboutSection = () => {
                   <div className="absolute -left-2 top-0 w-4 h-4 bg-primary/60 rounded-full"></div>
                   <div>
                     <h4 className="text-lg font-semibold text-foreground">Higher Secondary School (Science)</h4>
-                    <p className="text-sm text-muted-foreground">HSS • 2022</p>
+                    <p className="text-sm text-muted-foreground">St. Xavier's College • 2020 - 2022</p>
                     <p className="text-lg font-semibold text-green-400 mt-1">77.50%</p>
                     <p className="text-sm text-muted-foreground mt-1">
                       Focused on Physics, Chemistry, Mathematics, and Computer Science
@@ -79,7 +79,7 @@ const AboutSection = () => {
                   <div className="absolute -left-2 top-0 w-4 h-4 bg-primary/40 rounded-full"></div>
                   <div>
                     <h4 className="text-lg font-semibold text-foreground">State Secondary School</h4>
-                    <p className="text-sm text-muted-foreground">SSS • 2020</p>
+                    <p className="text-sm text-muted-foreground">Shri Mahavir Jain School • 2008 - 2020</p>
                     <p className="text-lg font-semibold text-green-400 mt-1">94.80%</p>
                     <p className="text-sm text-muted-foreground mt-1">
                       Strong foundation in science and mathematics
