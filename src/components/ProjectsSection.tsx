@@ -10,7 +10,7 @@ const ProjectsSection = () => {
       image: 'https://images.unsplash.com/photo-1500673922987-e212871fec22?w=400&h=300&fit=crop',
       tech: ['Python', 'IoT', 'Machine Learning', 'PWA'],
       github: '#',
-      demo: '#'
+      demo: 'https://drive.google.com/file/d/1joH2e6TDZ1FSDQyUJ__RhFqd7gyXW2VI/view?usp=sharing'
     },
     {
       title: 'ResearchHub: Comprehensive Research Platform',
@@ -18,7 +18,7 @@ const ProjectsSection = () => {
       image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=400&h=300&fit=crop',
       tech: ['TypeScript', 'React', 'Express.js', 'MongoDB'],
       github: '#',
-      demo: '#'
+      demo: 'https://drive.google.com/file/d/1M4UfEnWt_8gN8pWypt6HYT04pkhrOgZI/view?usp=sharing'
     },
     {
       title: 'VISION AI: Image & Video Upscaling',
@@ -26,7 +26,7 @@ const ProjectsSection = () => {
       image: 'https://images.unsplash.com/photo-1518770660439-4636190af475?w=400&h=300&fit=crop',
       tech: ['Python', 'AI', 'Computer Vision', 'NLP'],
       github: '#',
-      demo: '#'
+      demo: 'https://drive.google.com/file/d/1VB9Hv3pLfciLWtgA4S8Vg1A673Kp86l-/view?usp=sharing'
     }
   ];
 
