@@ -131,7 +131,7 @@ const ExperienceSection = () => {
                     <p className="text-primary font-medium">VESIT</p>
                   </div>
                   <span className="bg-primary/20 text-primary px-3 py-1 rounded-full text-sm font-medium">
-                    October 2024 - Present
+                    Oct 2024 - Present
                   </span>
                 </div>
                 <p className="text-muted-foreground">
