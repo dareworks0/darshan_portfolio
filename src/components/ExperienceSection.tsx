@@ -65,7 +65,7 @@ const ExperienceSection = () => {
                 <div className="flex justify-between items-start mb-4">
                   <div>
                     <h3 className="text-xl font-semibold text-foreground">Sr. Public Relations Officer</h3>
-                    <p className="text-primary font-medium">Computer Society of India (CSI) - VESIT</p>
+                    <p className="text-primary font-medium">Computer Society of India (CSI) - VESIT Chapter</p>
                   </div>
                   <span className="bg-primary/20 text-primary px-3 py-1 rounded-full text-sm font-medium">
                     Aug 2024 - Present
