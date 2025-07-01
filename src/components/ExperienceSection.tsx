@@ -50,7 +50,7 @@ const ExperienceSection = () => {
                   </span>
                 </div>
                 <p className="text-muted-foreground">
-                  Supported community development by driving outreach and partnerships.
+                  Supported community development by driving outreach and partnerships. Planning and managing the execution of various initiatives to enhance the NGO's impact.
                 </p>
               </CardContent>
             </Card>
